@@ -17,6 +17,10 @@
                 <Font name="System Bold" size="11.0" />
             </font>
         </Button>
-      <Text fx:id="bibleText" layoutX="153.0" layoutY="151.0" strokeType="OUTSIDE" strokeWidth="0.0" text="bible verse here" wrappingWidth="293.4700622558594" />
+      <Text fx:id="bibleText" layoutX="153.0" layoutY="158.0" strokeType="OUTSIDE" strokeWidth="0.0" text="bible verse here" wrappingWidth="293.4700622558594">
+         <font>
+            <Font name="Bookman Old Style" size="14.0" />
+         </font>
+      </Text>
     </children>
 </AnchorPane>
